@@ -1,6 +1,6 @@
 {
     "name": "@amjs/create-readme",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Allows to create the README.md file of a project",
     "license": "MIT",
     "author": "Arturo Martínez Díaz <arturo.mart.diaz@gmail.com>",
