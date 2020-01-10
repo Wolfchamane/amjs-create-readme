@@ -1,4 +1,4 @@
-# @amjs/create-readme 0.1.0
+# @amjs/create-readme 0.1.2
 
 
 

@@ -1,6 +1,6 @@
 {
     "name": "@amjs/create-readme",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Allows to create the README.md file of a project",
     "license": "MIT",
     "author": "Arturo Martínez Díaz <arturo.mart.diaz@gmail.com>",
@@ -13,12 +13,12 @@
     ],
     "main": "index.js",
     "dependencies": {
-        "@amjs/templater": "^0.1.1",
-        "jsdom": "^15.1.1"
+        "@amjs/templater": "^0.1.5",
+        "jsdom": "^15.2.1"
     },
     "devDependencies": {
-        "eslint": "^6.0.1",
-        "prettier": "^1.18.2"
+        "eslint": "^6.8.0",
+        "prettier": "^1.19.1"
     },
     "scripts": {
         "format": "prettier --config .prettierrc --write 'index.js'",
