@@ -1,6 +1,4 @@
-# @amjs/create-readme 0.1.2
-
-
+# @amjs/create-readme 0.1.3
 
 > Allows to create the README.md file of a project
 
