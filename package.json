@@ -13,7 +13,7 @@
     ],
     "main": "index.js",
     "dependencies": {
-        "@amjs/templater": "^0.1.5",
+        "@amjs/templater": "^0.1.6",
         "jsdom": "^15.2.1"
     },
     "devDependencies": {
