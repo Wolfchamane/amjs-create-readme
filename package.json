@@ -14,7 +14,7 @@
     "main": "index.js",
     "dependencies": {
         "@amjs/templater": "^0.1.6",
-        "jsdom": "^15.2.1"
+        "jsdom": "^16.5.0"
     },
     "devDependencies": {
         "eslint": "^6.8.0",
